@@ -6,3 +6,10 @@
 *{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+#card-blog{
+    
+    transition: 0.4s;
+}
+#card-blog:hover{
+    transform: translateY(10px);
+}
